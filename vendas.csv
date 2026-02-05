@@ -1,4 +1,4 @@
-Data,Produto,Quantidade,Peco_unitario,Vendedor
+Data,Produto,Quantidade,Preco_unitario,Vendedor
 2024-01-01,Camiseta,3,50,Joao
 2024-01-01,Calca,2,120,Maria
 2024-01-01,Tenis,1,200,Carlos
